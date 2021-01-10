@@ -5,7 +5,7 @@ I'm Brandon Slaght, a software developer out of Cleveland, Ohio. When I'm not wo
 ![](https://github.com/paulrobertlloyd/socialmediaicons/raw/main/email-16x16.png) [Email](mailto:brandonsesipod@gmail.com "My personal email")  
 ![](https://github.com/paulrobertlloyd/socialmediaicons/raw/main/website-16x16.png) [Web](https://www.brandonslaght.me "Link to my website")  
 ![](https://github.com/paulrobertlloyd/socialmediaicons/raw/main/linkedin-16x16.png) [LinkedIn](https://www.linkedin.com/in/brandonslaght/ "Link to my... LinkedIn")  
-🥾 [Trailhead](https://www.trailblazer.me/id/bslaght "Link to my Salesforce Trailhead profile")  
+🥾[Trailhead](https://www.trailblazer.me/id/bslaght "Link to my Salesforce Trailhead profile")  
 ![](https://github.com/paulrobertlloyd/socialmediaicons/raw/main/twitter-16x16.png) [Twitter](https://www.twitter.com/BrandonSlaght "Link to my Twitter")  
 ![](https://github.com/paulrobertlloyd/socialmediaicons/raw/main/facebook-16x16.png) [Facebook](https://www.facebook.com/brandon.slaght/ "Link to my Facebook")  
 ![](https://github.com/paulrobertlloyd/socialmediaicons/raw/main/instagram-16x16.png) [Instagram](https://www.instagram.com/brandon_slaght/ "Link to my Instagram")  
