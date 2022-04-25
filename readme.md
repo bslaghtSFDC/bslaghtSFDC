@@ -2,7 +2,7 @@
 
 I'm Brandon Slaght, a software developer out of Cleveland, Ohio. When I'm not working on Salesforce implementations for clients, I enjoy coding OSS 🖥, backpacking 🥾, climbing 🧗‍♂️, scuba 🤿, and board games ♟. You can find out more about me on my socials:  
 
-[![](https://www.github.com/paulrobertlloyd/socialmediaicons/raw/main/email-16x16.png) Email](mailto:brandonsesipod@gmail.com "My personal email")  
+[![](https://www.github.com/paulrobertlloyd/socialmediaicons/raw/main/email-16x16.png) Email](mailto:brandon.slaght@gmail.com "My personal email")  
 [![](https://www.github.com/paulrobertlloyd/socialmediaicons/raw/main/website-16x16.png) Web](https://www.brandonslaght.me "Link to my website")  
 [![](https://www.github.com/paulrobertlloyd/socialmediaicons/raw/main/linkedin-16x16.png) LinkedIn](https://www.linkedin.com/in/brandonslaght/ "Link to my... LinkedIn")  
 [🥾Trailhead](https://trailblazer.me/id/bslaght "Link to my Salesforce Trailhead profile")  
